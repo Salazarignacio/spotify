@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "_id": 1,
+      "name": "Amilanda",
+      "album": "Solo heridas",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpKkHS-HOZySrTpGvBSFMXL7KnUDlMpav1Q&s",
+      "artist": {
+        "name": "Mario Pereyra",
+        "nickname": "El Master",
+        "nationality": "AR"
+      },
+      "duration": {
+        "start": 0,
+        "end": 333
+      },
+      "url": "http://localhost:4200/track.mp3"
+    }
+  ]
+}
